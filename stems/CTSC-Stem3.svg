@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   viewBox="0 0 264.58333 264.58334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CTSC-Stem3.svg">
+  <title
+     id="title10">CTSC Stem3</title>
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect902"
+       is_visible="true"
+       offset_points="0.2,0.13229166 | 1.5021565,3.9470339 | 2.807481,1.4251909"
+       sort_points="true"
+       interpolator_type="CubicBezierFit"
+       interpolator_beta="0.2"
+       start_linecap_type="peak"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="peak" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect898"
+       is_visible="true"
+       offset_points="0.098713769,3.4277414 | 2.5351117,2.5248442 | 4.6430417,0.34818851"
+       sort_points="true"
+       interpolator_type="SpiroInterpolator"
+       interpolator_beta="0.2"
+       start_linecap_type="round"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect837"
+       is_visible="true"
+       offset_points="0,-3.0658409 | 3.4663877,3.363866 | 6.7909555,0.25610048"
+       sort_points="true"
+       interpolator_type="CubicBezierFit"
+       interpolator_beta="0.2"
+       start_linecap_type="round"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect833"
+       is_visible="true"
+       offset_points="0,0.83411025 | 3.031749,0.48732772 | 5.605359,-1.05863"
+       sort_points="true"
+       interpolator_type="CubicBezierSmooth"
+       interpolator_beta="0.2"
+       start_linecap_type="round"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect829"
+       is_visible="true"
+       offset_points="0.20567359,4.2827885 | 2.0087388,-2.2202907 | 3.8200017,-6.2286279"
+       sort_points="true"
+       interpolator_type="Linear"
+       interpolator_beta="0.2"
+       start_linecap_type="round"
+       linejoin_type="miter"
+       miter_limit="4"
+       end_linecap_type="round" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22"
+       is_visible="true" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.76"
+     inkscape:cx="326.3935"
+     inkscape:cy="551.15145"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1123"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CTSC Stem3</dc:title>
+        <dc:date>July 04, 2019</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-32.41665)">
+    <g
+       id="g906"
+       transform="matrix(1.2293722,0,0,1.2293722,-32.298552,-55.834619)">
+      <path
+         inkscape:path-effect="#path-effect902"
+         transform="matrix(-0.69770738,1.0343937,0.80231808,0.54117037,-16.229155,196.52133)"
+         d="m -105.57126,172.88815 c -2.66543,3.61211 -5.78021,6.55446 -9.43877,8.46584 -0.90967,0.47525 -1.83794,0.89967 -2.78105,1.275 -4.71587,1.87678 -9.7998,2.52608 -14.82614,2.17446 -10.09727,-0.70636 -19.89506,-5.42041 -26.61869,-12.39985 -5.1892,-5.18136 -8.71763,-11.15842 -10.84848,-17.45294 -2.13288,-6.30052 -2.89525,-13.00608 -2.45697,-19.70021 0.004,-0.0578 0.008,-0.11559 0.0116,-0.17338 0.91372,-13.32553 6.61304,-26.75141 16.33659,-36.6487 11.02163,-11.151369 25.55769,-17.302922 40.89206,-18.349002 9.41502,-0.642274 19.062867,0.653228 28.17483,3.876225 5.70821,2.019054 11.089431,4.951555 16.096487,8.469031 l 1.985441,-0.346937 -0.346937,-1.98544 c -5.215731,-3.664071 -10.902183,-6.509555 -16.736619,-8.80647 -9.328506,-3.672468 -19.344262,-5.549906 -29.340522,-5.421235 -16.23652,0.208996 -32.59528,5.734332 -45.47269,17.643748 -11.53778,10.61994 -18.59079,25.70363 -19.46739,41.07722 -0.004,0.0665 -0.007,0.13301 -0.011,0.19952 -0.4131,7.71855 0.74028,15.46304 3.59653,22.65677 2.86064,7.20481 7.39704,13.77714 13.657,19.20314 8.56883,7.19322 19.92926,10.78008 30.52565,10.30114 5.31927,-0.24042 10.46282,-1.49966 15.06765,-3.83367 0.92061,-0.46663 1.81971,-0.97617 2.69474,-1.52916 3.47498,-2.19607 6.82187,-4.88214 9.51958,-8.538 l -0.0279,-0.18499 z"
+         sodipodi:t0="0.39288074"
+         sodipodi:argument="-8.2230692"
+         sodipodi:radius="77.277977"
+         sodipodi:revolution="1.17759"
+         sodipodi:expansion="1"
+         sodipodi:cy="147.97311"
+         sodipodi:cx="-122.70177"
+         id="path900"
+         style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+         sodipodi:type="spiral" />
+      <path
+         inkscape:path-effect="#path-effect898"
+         transform="matrix(0.51038212,-1.4022634,0.80096223,0.29152642,-30.944587,229.7273)"
+         d="m 37.864811,98.028633 c -0.294635,0.33075 -0.505166,0.477672 -0.609045,0.536684 -0.0272,0.01561 -0.04717,0.02529 -0.05979,0.03099 -0.06067,0.02738 0.05052,0.0015 0.07805,0.0082 0.02753,0.0067 -0.05283,0.004 -0.243081,-0.122581 -0.199386,-0.132609 -0.461773,-0.36369 -0.75748,-0.72306 -0.602159,-0.731799 -1.154323,-1.766007 -1.518631,-2.855409 -0.384985,-1.151234 -0.435853,-1.966535 -0.403153,-2.374389 0.343703,-2.261391 1.281134,-4.040802 2.604396,-5.440059 1.345661,-1.422943 3.161973,-2.523447 5.303817,-3.24848 2.140682,-0.724639 4.534062,-1.047869 6.923963,-0.964141 2.390043,0.08373 4.702787,0.571858 6.685113,1.40378 3.71051,1.60321 6.68145,3.988343 8.953216,6.891591 2.278142,2.911395 3.871589,6.369496 4.765013,10.106288 0.125344,0.52426 0.236815,1.05366 0.334394,1.58739 1.29639,7.09086 0.124731,14.86116 -3.39369,21.29595 -2.833483,5.10932 -6.666653,9.18905 -11.143046,12.25681 -4.480304,3.07043 -9.614624,5.13274 -15.032263,6.17762 -10.839939,2.09066 -22.748236,0.0909 -32.5367808,-5.9534 -8.69845223,-5.34593 -15.3352563,-13.2293 -19.5087912,-22.37788 -1.193346,-2.61586 -2.184401,-5.33359 -2.963471,-8.12193 -1.902065,-6.968608 -2.473843,-14.362295 -1.57192,-21.679436 -1.131878,7.28547 -0.802261,14.738502 0.897259,21.851986 0.664175,2.8547 1.549957,5.65721 2.651934,8.37388 3.8500973,9.49154 10.3489421,17.95395 19.2546713,23.88892 10.0819187,6.68851 22.6397317,9.25134 34.3663357,7.34442 5.865788,-0.95387 11.539639,-3.02984 16.581172,-6.28633 5.045511,-3.25905 9.446927,-7.69452 12.750034,-13.33724 4.256402,-7.18945 5.891486,-16.01137 4.629514,-24.26368 -0.09559,-0.62509 -0.207881,-1.24738 -0.337061,-1.86588 -0.918986,-4.39999 -2.696894,-8.624573 -5.411157,-12.287319 -2.72034,-3.670944 -6.362385,-6.749853 -10.946078,-8.84644 -2.654837,-1.235908 -5.664146,-1.959092 -8.709535,-2.160169 -3.045431,-0.20108 -6.199531,0.115222 -9.146352,1.024444 -2.945989,0.908966 -5.755632,2.43422 -8.003878,4.699601 -2.270707,2.288011 -3.892131,5.258615 -4.502374,8.874472 -0.310833,1.77943 -0.01327,3.751759 0.511626,5.459774 0.538302,1.75165 1.422289,3.574927 2.615688,5.079107 0.601678,0.75837 1.325423,1.4902 2.17907,2.08461 0.857074,0.5968 1.895778,1.08899 3.09283,1.27351 1.224778,0.18879 2.479573,0.0326 3.678157,-0.48614 0.245825,-0.1064 0.48529,-0.2263 0.718224,-0.35845 0.873067,-0.49592 1.649937,-1.16066 2.342063,-1.93762 a 3.4277414,3.4277414 90 0 0 -5.118965,-4.560027 z"
+         sodipodi:t0="0"
+         sodipodi:argument="-10.267859"
+         sodipodi:radius="58.826881"
+         sodipodi:revolution="1.1775862"
+         sodipodi:expansion="1"
+         sodipodi:cy="100.30865"
+         sodipodi:cx="40.424294"
+         id="path896"
+         style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:0.26458332"
+         sodipodi:type="spiral" />
+    </g>
+  </g>
+</svg>
