@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg3874"
+   version="1.1"
+   viewBox="0 0 1000 1000"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CTH-Leaf3-Solid.svg">
+  <title
+     id="title3339">CTH Leaf3 Solid</title>
+  <defs
+     id="defs3876" />
+  <metadata
+     id="metadata3879">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CTH Leaf3 Solid</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>The copyright holder of this file allows anyone to use it for any purpose, provided that the copyright holder is properly attributed. Redistribution, derivative work, commercial use, and all other use is permitted.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Troy Dawson</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:date>May 04, 2019</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-132.79638,410.95374)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:28.21551514;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 190.74428,500.49646 c 0,0 30.26895,47.53437 110.50037,62.72863 23.28778,4.41223 46.75875,5.22632 70.18254,3.06569 23.42388,-2.16042 46.8003,-7.30071 69.89868,-14.80035 8.00005,-2.59693 -5.94152,-12.53117 -19.72936,-21.92324 -13.78728,-9.39187 -27.42063,-18.24238 -18.80309,-18.67434 69.15894,-11.74025 123.01352,-26.25525 170.26047,-49.8416 47.24653,-23.58615 87.88547,-56.24365 130.61431,-104.26975 6.5377,-8.554 -13.37007,-9.72187 -32.53634,-10.38873 -19.16626,-0.66583 -37.59123,-0.83126 -28.08895,-7.38116 29.89351,-20.6013 82.53178,-63.51128 129.94245,-108.11024 47.41057,-44.59873 89.59396,-90.88603 98.57578,-118.24132 2.66595,-8.11873 -14.00779,-8.70061 -30.02757,-8.92538 -16.02007,-0.22952 -31.38682,-0.0827 -26.10719,-6.780042 22.38939,-28.365205 58.77337,-72.043571 92.82568,-116.515766 34.05203,-44.472812 65.772,-89.739242 78.83228,-121.280352 3.19885,-7.72895 -9.47186,-6.38139 -22.25097,-4.94055 -12.77929,1.44331 -25.66533,2.97389 -22.8933,-4.38019 22.05125,-58.50994 55.28117,-118.30976 82.99873,-163.4819 27.7172,-45.17192 49.921,-75.71617 49.921,-75.71617 C 662.0847,40.760187 651.47098,93.323608 190.74428,500.49646 Z"
+       id="path3769-7-1-8-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssscscssssssssssscc" />
+  </g>
+</svg>
